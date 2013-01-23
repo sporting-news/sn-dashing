@@ -1,1 +1,1 @@
-node[:rbenv][:group_users] = %w{ jcopp snobot }
+default[:rbenv][:group_users] = "snobot"
